@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         classic.setOnClickListener(this);
         ninja.setOnClickListener(this);
 
+        
     }
 
     @Override
